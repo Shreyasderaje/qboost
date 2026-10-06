@@ -437,7 +437,7 @@
     "delta": 1e-05,
     "epsilon_total": 16.149
    },
-   "elapsed_s": 81.97
+   "elapsed_s": 179.91
   },
   {
    "round": 2,
@@ -667,7 +667,7 @@
     "delta": 1e-05,
     "epsilon_total": 32.299
    },
-   "elapsed_s": 81.65
+   "elapsed_s": 253.68
   },
   {
    "round": 3,
@@ -897,7 +897,7 @@
     "delta": 1e-05,
     "epsilon_total": 48.448
    },
-   "elapsed_s": 81.06
+   "elapsed_s": 213.7
   },
   {
    "round": 4,
@@ -1127,7 +1127,7 @@
     "delta": 1e-05,
     "epsilon_total": 64.597
    },
-   "elapsed_s": 81.24
+   "elapsed_s": 213.78
   },
   {
    "round": 5,
@@ -1357,7 +1357,7 @@
     "delta": 1e-05,
     "epsilon_total": 80.747
    },
-   "elapsed_s": 164.07
+   "elapsed_s": 256.66
   }
  ],
  "privacy": {
